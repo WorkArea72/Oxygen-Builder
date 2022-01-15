@@ -1,2 +1,2 @@
-# Oxygen-Buuilder
-Cosas interesantes relacionadas con Oxygen
+# Oxygen-Builder
+Cosas interesantes relacionadas con Oxygen. Ver WiKi
